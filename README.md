@@ -1,3 +1,5 @@
+## 这是一个Fork，用于学习。
+
 **| [English](README_en.md) | 简体中文 | [日本語](README_jp.md) |**
 
 # AzurLaneAutoScript
